@@ -110,9 +110,6 @@ def index():
 
   return render_template("index.html")
 
-
-#auth = get_auth_token("alialhamadani72@gmail.com", "Thorthor11")
-#print(auth)
 #channel_id = get_dm_channel_id(auth, "Midjourney Bot")
 #print(channel_id)
 #print(imagine(auth, channel_id, "a man eating lettice"))
